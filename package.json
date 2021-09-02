@@ -1,0 +1,11 @@
+{
+  "name": "pingythediscordbot",
+  "version": "1.0.0",
+  "description": "If you liked getting pinged in Discord.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zedzee",
+  "license": "MIT"
+}
