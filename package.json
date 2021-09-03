@@ -4,11 +4,15 @@
   "description": "For those who like to get pinged.",
   "main": "index.js",
   "scripts": {
-    "Start": "node ."
+    "Start": "node .",
+    "Compile Commands": "node deploy-commands.js"
   },
   "author": "Zedzee",
   "license": "MIT",
   "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.22.0",
     "discord.js": "^13.1.0",
     "dotenv": "^10.0.0"
   },
